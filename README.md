@@ -44,6 +44,6 @@ Two input methods:
 
 1. "Hey Siri，Siri with chatGPT", will open up the shortcut ('yes' to all permissions prompt)
 
-2. Just enter your question in the box below 'yes!'
+2. Just enter your question in the box.
 
 Some phones will encounter text pop-ups. Please use Siri to run the shortcut again, and click Allow all the way until an error is reported. Turn on SmarT Siri again from Shortcuts to use it normally! ! !
