@@ -34,7 +34,7 @@ https://www.icloud.com/shortcuts/948bc7e4db174133886065b0710a245c
 
 Paste your key to the position shown in the picture below ( replace all with your key )
 
-![image-20230210004316760](images/image-20230210004316760.png)
+![image-20230210004316760](images/image-20230210004316760.jpg)
 
 
 
