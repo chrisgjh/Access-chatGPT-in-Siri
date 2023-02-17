@@ -45,7 +45,7 @@ Paste your key to the position shown in the picture below ( replace all with you
 
 Two input methods:
 
-1. "Hey Siri，Siri with chatGPT", will open up the shortcut ('yes' to all permissions prompt)
+1. "Hey Siri，run Siri with chatGPT", will open up the shortcut ('yes' to all permissions prompt)
 
 2. Just enter your question in the box.
 
