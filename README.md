@@ -6,6 +6,7 @@ If you find it useful, give it a Star or a fork! Thank you!!
 
 When using chatGPT for the first time, go to the official website to create a new account:
 ![image-20230210003127112](images/image-20230210003127112.png)
+
 click "Sign up" to register an account, and if you have an account already, click "Log in".
 
 ![image-20230210003249233](images/image-20230210003249233.png)
