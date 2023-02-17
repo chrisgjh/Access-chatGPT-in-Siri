@@ -4,7 +4,7 @@ If you find it useful, give it a Star or a fork! Thank you!!
 
 # Create Account/Login Account
 
-​When using chatGPT for the first time, go to the official website to create a new account:
+When using chatGPT for the first time, go to the official website to create a new account:
 ![image-20230210003127112](images/image-20230210003127112.png)
 click "Sign up" to register an account, and if you have an account already, click "Log in".
 
@@ -20,7 +20,9 @@ After logging in, enter this website to get an API key: https://platform.openai.
 
 ![image-20230210003548551](images/image-20230210003548551.png)
 
-Log in, click "Create New Security Key", Create an API key![image-20230210003635094](images/image-20230210003635094.png)
+Log in, click "Create New Security Key", Create an API key
+
+![image-20230210003635094](images/image-20230210003635094.png)
 
 
 
